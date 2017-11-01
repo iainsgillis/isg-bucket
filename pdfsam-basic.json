@@ -16,6 +16,7 @@
         "github": "https://github.com/torakiki/pdfsam"
     },
     "autoupdate": {
-        "url": "https://github.com/torakiki/pdfsam/releases/download/v$version/pdfsam-$version-bin.zip"
+        "url": "https://github.com/torakiki/pdfsam/releases/download/v$version/pdfsam-$version-bin.zip",
+        "extract_dir": "pdfsam-$version"
     }
 }
