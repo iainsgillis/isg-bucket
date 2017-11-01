@@ -5,7 +5,7 @@
     "persist": [
         "config"
     ],
-    "url": "https://github.com/cmderdev/cmder/releases/download/v$version/cmder.zip",
+    "url": "https://github.com/cmderdev/cmder/releases/download/v1.3.3/cmder.zip",
     "hash": "695180DDABAAC1A29548B6EB484D75BDD866FE64596241E912267278628C265C",
     "bin": "Cmder.exe",
     "shortcuts": [
