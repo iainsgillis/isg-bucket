@@ -1,0 +1,25 @@
+{
+    "homepage": "https://hyper.is",
+    "version": "2.0.0-canary.8",
+    "tag": "2.0.0-canary8",
+    "license": "MIT",
+    "url": "https://github.com/zeit/hyper/releases/download/2.0.0-canary.8/hyper-2.0.0-canary8-full.nupkg#/dl.7z",
+    "hash": "sha1:D5AB44B85ED0F7929579BFC0B648C97B4BBE1704",
+    "extract_dir": "lib\\net45",
+    "bin": "hyper.exe",
+    "shortcuts": [
+        [
+            "hyper.exe",
+            "Hyper"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/zeit/hyper"
+    },
+    "autoupdate": {
+        "url": "https://github.com/zeit/hyper/releases/download/$version/hyper-$tag-full.nupkg#/dl.7z",
+        "hash": {
+            "url": "$baseurl/RELEASES"
+        }
+    }
+}
