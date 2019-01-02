@@ -1,10 +1,10 @@
 {
     "homepage": "http://pdfsam.org/",
-    "version": "3.3.5",
+    "version": "4.0.0",
     "license": "AGPLv3",
-    "extract_dir": "pdfsam-3.3.5",
-    "url": "https://github.com/torakiki/pdfsam/releases/download/v3.3.5/pdfsam-3.3.5-bin.zip",
-    "hash": "F523F7ABD465398FC70008AFB1EC219941C957370E24F73A9F48B315DD85A308",
+    "extract_dir": "pdfsam-4.0.0",
+    "url": "https://github.com/torakiki/pdfsam/releases/download/v4.0.0/pdfsam-4.0.0-windows.zip",
+    "hash": "6be946c45bbd84d5bd41ec070a0880655927b08b57c90269775e4d13af160a2f",
     "bin": "pdfsam.exe",
     "shortcuts": [
         [
@@ -16,7 +16,7 @@
         "github": "https://github.com/torakiki/pdfsam"
     },
     "autoupdate": {
-        "url": "https://github.com/torakiki/pdfsam/releases/download/v$version/pdfsam-$version-bin.zip",
+        "url": "https://github.com/torakiki/pdfsam/releases/download/v$version/pdfsam-$version-windows.zip",
         "extract_dir": "pdfsam-$version"
     }
 }
