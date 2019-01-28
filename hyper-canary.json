@@ -1,12 +1,11 @@
 {
     "homepage": "https://hyper.is",
-    "version": "2.1.0-canary.2",
-    "tag": "2.1.0-canary2",
+    "version": "2.1.0",
     "license": "MIT",
-    "url": "https://github.com/zeit/hyper/releases/download/2.1.0-canary.2/hyper-2.1.0-canary2-full.nupkg#/dl.7z",
-    "hash": "sha1:FFD79A1CB5B48B30E2929FB4FCFC0F05118BA60B",
+    "url": "https://github.com/zeit/hyper/releases/download/2.1.0/hyper-2.1.0-full.nupkg#/dl.7z",
+    "hash": "sha1:72111670efcf5345db24909448c455a9f760d9dd",
     "extract_dir": "lib\\net45",
-    "bin": "hyper.exe",
+    "bin": "resources\\bin\\hyper.cmd",
     "shortcuts": [
         [
             "hyper.exe",
@@ -17,7 +16,7 @@
         "github": "https://github.com/zeit/hyper"
     },
     "autoupdate": {
-        "url": "https://github.com/zeit/hyper/releases/download/$version/hyper-$tag-full.nupkg#/dl.7z",
+        "url": "https://github.com/zeit/hyper/releases/download/$version/hyper-$version-full.nupkg#/dl.7z",
         "hash": {
             "url": "$baseurl/RELEASES"
         }
