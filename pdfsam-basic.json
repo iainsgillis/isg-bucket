@@ -1,10 +1,10 @@
 {
     "homepage": "http://pdfsam.org/",
-    "version": "4.0.0",
+    "version": "4.0.1",
     "license": "AGPLv3",
-    "extract_dir": "pdfsam-4.0.0",
-    "url": "https://github.com/torakiki/pdfsam/releases/download/v4.0.0/pdfsam-4.0.0-windows.zip",
-    "hash": "6be946c45bbd84d5bd41ec070a0880655927b08b57c90269775e4d13af160a2f",
+    "extract_dir": "pdfsam-4.0.1",
+    "url": "https://github.com/torakiki/pdfsam/releases/download/v4.0.1/pdfsam-4.0.1-windows.zip",
+    "hash": "7a2f8fa281157f28b314a0eef3ed175b1678c16cf6a1b1c5a519bb31dbed5234",
     "bin": "pdfsam.exe",
     "shortcuts": [
         [
