@@ -1,5 +1,5 @@
 {
-    "version": "14.1.0",
+    "version": "15.0.1",
     "license": "MIT",
     "homepage": "http://fx.wtf",
     "checkver": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/antonmedv/fx/releases/download/14.1.0/fx-win.exe.zip",
-            "hash": "b285cbc9c68d1b22b2e23a5855f37c93d8a24c2d0ec0bf25036c6824fbc4fa56"
+            "url": "https://github.com/antonmedv/fx/releases/download/15.0.1/fx-win.exe.zip",
+            "hash": "31b9c57ff79711f3219de61dee79a1d0e7102f1b21b50dc5ee7e0b578d9ecb00"
         }
     },
     "autoupdate": {
