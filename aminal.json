@@ -1,5 +1,5 @@
 {
-    "version": "2019-04-22-8f0027d",
+    "version": "2020-01-26-4033a8b",
     "license": "GPL 3.0",
     "homepage": "https://github.com/liamg/aminal",
     "checkver": {
@@ -8,13 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/liamg/aminal/releases/download/Nightly-develop-2019-04-22-8f0027d/aminal-windows-amd64.exe#/aminal.exe"
+            "url": "https://github.com/liamg/aminal/releases/download/Nightly-develop-2020-01-26-4033a8b/aminal-windows-amd64.exe",
+            "hash": "4797666c7f02aa9bfb2aa42322c1587f3bf8d137628f0f7045bd42fb121855d3"
         }
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/liamg/aminal/releases/download/Nightly-develop-$version/aminal-windows-amd64.exe"
+                "url": "https://github.com/liamg/aminal/releases/download/Nightly-develop-$version/aminal-windows-amd64.exe",
+                "hash": ""
             }
         }
     },
