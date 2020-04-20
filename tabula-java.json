@@ -1,0 +1,10 @@
+{
+  "version": "1.0.3",
+  "license": "MIT",
+  "homepage": "https://github.com/tabulapdf/tabula-java",
+  "url": "https://github.com/tabulapdf/tabula-java/releases/download/v1.0.3/tabula-1.0.3-jar-with-dependencies.jar",
+  "hash": "CC74E3A87BA1944D8AE88B7F1F6247983BB44F727858E088A18FB53150F83862",
+
+  "pre_install": "Set-Content \"$dir\\tabula-java.bat\" (@('@echo off', 'java.exe -jar %~dp0\\tabula-1.0.3-jar-with-dependencies.jar %*') -join \"`r`n\") -Encoding Ascii",
+  "bin": ["tabula-java.bat"]
+}
