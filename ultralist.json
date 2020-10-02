@@ -1,13 +1,13 @@
 {
-    "version": "0.9.5",
+    "version": "1.5.1",
     "description": "Ultralist is a simple, powerful, open source task management system for the command line.",
     "license": "MIT",
     "homepage": "https://ultralist.io/",
     "checkver": {
         "github": "https://github.com/ultralist/ultralist"
     },
-    "url": "https://github.com/ultralist/ultralist/releases/download/0.9.5/ultralist_win.zip",
-    "hash": "5b24f6557513e7a49bd6a1f7cb2dce81df67180b3373f61ca3661fdee2b072c8",
+    "url": "https://github.com/ultralist/ultralist/releases/download/1.5.1/ultralist_win.zip",
+    "hash": "a20d032904e35f3c80b51710a7bb46f788548958befb68eed0b52354bfff9116",
     "autoupdate": {
         "url": "https://github.com/ultralist/ultralist/releases/download/$version/ultralist_win.zip"
     },
