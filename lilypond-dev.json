@@ -1,12 +1,12 @@
 {
-    "version": "2.21.82",
+    "version": "2.23.3",
     "homepage": "http://lilypond.org",
-    "url": "http://lilypond.org/download/binaries/mingw/lilypond-2.21.82-1.mingw.exe#/lilypond.7z",
-    "hash": "171f68be7d5a633ba6ea9d7e6ab888d1075b0b0e04328caa4aef3fd6339ef296",
+    "url": "http://lilypond.org/download/binaries/mingw/lilypond-2.23.3-1.mingw.exe#/lilypond.7z",
+    "hash": "e1932be555b1a3f2cb5ef945fd1f32506b9d7b056fdf0d064560b05715edeaf2",
     "bin": "usr/bin/lilypond.exe",
     "checkver": {
         "url": "http://lilypond.org/development.html",
-        "re": "Development for LilyPond ([\\d.]+)"
+        "regex": "Development for LilyPond ([\\d.]+)"
     },
     "autoupdate": {
         "url": "http://lilypond.org/download/binaries/mingw/lilypond-$version-1.mingw.exe#/lilypond.7z",
