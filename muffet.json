@@ -1,17 +1,17 @@
 {
-    "version": "2.4.2",
+    "version": "2.4.4",
     "description": "Muffet, the web repairgirl. Fast website link checker in Go.",
     "license": "MIT",
     "homepage": "https://github.com/raviqqe/muffet/",
     "checkver": "github",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/raviqqe/muffet/releases/download/v2.4.2/muffet_2.4.2_Windows_i386.tar.gz",
-            "hash": "d743f08850f7e00af59580b30ac3b6dec9938a7c3228b84e8c59ffdd11f14f1e"
+            "url": "https://github.com/raviqqe/muffet/releases/download/v2.4.4/muffet_2.4.4_Windows_i386.tar.gz",
+            "hash": "8cf372ed1834417faede2fa622a67f2c6db7ae3b91d177748515189c4cde4ba3"
         },
         "64bit": {
-            "url": "https://github.com/raviqqe/muffet/releases/download/v2.4.2/muffet_2.4.2_Windows_x86_64.tar.gz",
-            "hash": "d7d68e7e1a67a222480030085eab3c3bfa9125cfcdc5c405d3cafb268e05754a"
+            "url": "https://github.com/raviqqe/muffet/releases/download/v2.4.4/muffet_2.4.4_Windows_x86_64.tar.gz",
+            "hash": "d7051a2d9a5e58f7167899fe692fc654114ed888e11d134b5067553442ea6159"
         }
     },
     "autoupdate": {
@@ -29,7 +29,8 @@
     },
     "bin": [
         [
-            "muffet.exe"
+            "muffet.exe",
+            "muffet"
         ]
     ]
 }
