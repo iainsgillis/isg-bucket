@@ -1,8 +1,8 @@
 {
-    "version": "2.23.4",
+    "version": "2.23.5",
     "homepage": "http://lilypond.org",
-    "url": "http://lilypond.org/download/binaries/mingw/lilypond-2.23.4-1.mingw.exe#/lilypond.7z",
-    "hash": "d2eb350e4bff6c44c12a661221541e407ecfaf40bfa58fb8ddc8b72a74c7fee8",
+    "url": "http://lilypond.org/download/binaries/mingw/lilypond-2.23.5-1.mingw.exe#/lilypond.7z",
+    "hash": "6d35fc7ea8a2028668aca112262a102bf73ddebc02d288ded26af31119e095d1",
     "bin": "usr/bin/lilypond.exe",
     "checkver": {
         "url": "http://lilypond.org/development.html",
