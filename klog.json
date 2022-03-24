@@ -1,0 +1,14 @@
+{
+  "version": "4.0",
+  "description": "Command line tool for time tracking in a human-readable, plain-text file format..",
+  "license": "MIT",
+  "homepage": "https://klog.jotaen.net/",
+  "checkver": {
+    "github": "https://github.com/jotaen/klog"
+  },
+  "url": "https://github.com/jotaen/klog/releases/download/v4.0/klog-windows.zip",
+  "autoupdate": {
+    "url": "https://github.com/jotaen/klog/releases/download/v$version/klog-windows.zip"
+  },
+  "bin": ["klog.exe"]
+}
