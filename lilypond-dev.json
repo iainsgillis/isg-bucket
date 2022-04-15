@@ -4,6 +4,7 @@
     "url": "https://gitlab.com/lilypond/lilypond/-/releases/v2.23.7/downloads/lilypond-2.23.7-mingw-x86_64.zip",
     "hash": "ae6d52ac9bcad9ded09bde0caae10ed9ae76f592f2dc5baccf1b434cd0df9d1e",
     "bin": "bin/lilypond.exe",
+    "extract_dir": "lilypond-2.23.7",
     "checkver": {
         "url": "http://lilypond.org/development.html",
         "regex": "Development for LilyPond ([\\d.]+)"
