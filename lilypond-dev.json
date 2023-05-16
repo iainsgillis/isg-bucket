@@ -1,8 +1,8 @@
 {
-    "version": "2.25.2",
+    "version": "2.25.4",
     "homepage": "http://lilypond.org",
-    "url": "https://gitlab.com/lilypond/lilypond/-/releases/v2.25.2/downloads/lilypond-2.25.2-mingw-x86_64.zip",
-    "hash": "2a1732bb8df1e96a0a40712d1d5071da0dc9d07dada36b8037897cee649b9c1b",
+    "url": "https://gitlab.com/lilypond/lilypond/-/releases/v2.25.4/downloads/lilypond-2.25.4-mingw-x86_64.zip",
+    "hash": "e99168fec1d5c6f86453334067491896d6819977a37bb2d1a18453e53ffcca7a",
     "bin": "bin/lilypond.exe",
     "extract_dir": "lilypond-2.23.13",
     "checkver": {
